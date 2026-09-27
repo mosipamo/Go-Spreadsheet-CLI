@@ -1,4 +1,4 @@
-# SheetGo — Go Spreadsheet CLI
+# Go Spreadsheet CLI
 
 A lightweight terminal-based spreadsheet written in Go. Cells are addressed by 1-indexed `(row, col)` coordinates, stored in memory in a thread-safe sparse grid, and persisted as JSON checkpoints.
 
@@ -29,7 +29,7 @@ A lightweight terminal-based spreadsheet written in Go. Cells are addressed by 1
 │       ├── storage.go             # Document/CellRecord types, Storage interface
 │       └── json.go                # JSONStorage implementation
 ├── data/spreadsheet.json          # default checkpoint
-└── go.mod                         # module sheetgo, go 1.22
+└── go.mod                         # module myexcel, go 1.22
 ```
 
 Key design points:
