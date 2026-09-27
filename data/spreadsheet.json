@@ -1,0 +1,44 @@
+{
+  "cells": [
+    {
+      "row": 2,
+      "col": 1,
+      "value": 30
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "value": 10
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "value": 20
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "value": 40
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "value": 0
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "value": 0
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "value": 0
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "value": 0
+    }
+  ]
+}
